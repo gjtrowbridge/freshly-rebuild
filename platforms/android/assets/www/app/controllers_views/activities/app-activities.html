@@ -6,7 +6,7 @@
     </label>
     <ul class="list">
       <li ng-repeat="activity in activities | filter:searchText | orderBy:'name'">
-        {{activity.name}}
+        <ng-activity></ng-activity>
       </li>
     </ul>
   </ion-content>

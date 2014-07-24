@@ -61,6 +61,7 @@
 /home/greg/freshly/rebuild/platforms/android/assets/www/app/controllers_views/activities/activity.html \
 /home/greg/freshly/rebuild/platforms/android/assets/www/app/controllers_views/activities/activities.js \
 /home/greg/freshly/rebuild/platforms/android/assets/www/app/controllers_views/activities/app-activities.html \
+/home/greg/freshly/rebuild/platforms/android/assets/www/app/directives/directives.js \
 /home/greg/freshly/rebuild/platforms/android/assets/www/lib/ionic \
 /home/greg/freshly/rebuild/platforms/android/assets/www/lib/angular \
 /home/greg/freshly/rebuild/platforms/android/assets/www/lib/angular-sanitize \

@@ -10,7 +10,8 @@ angular.module('freshly', [
   'freshly.activities',
   'freshly.map',
   'freshly.capture',
-  'freshly.services'
+  'freshly.services',
+  'freshly.directives'
 ])
 
 .run(function($ionicPlatform) {
