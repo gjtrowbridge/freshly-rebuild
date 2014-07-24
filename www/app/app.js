@@ -12,6 +12,7 @@ angular.module('freshly', [
   'freshly.capture',
   'freshly.servicesActivities',
   'freshly.servicesCamera',
+  'freshly.servicesMap',
   'freshly.directives'
 ])
 

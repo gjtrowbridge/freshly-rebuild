@@ -50,7 +50,9 @@
 /home/greg/freshly/rebuild/platforms/android/assets/www/app/controllers_views \
 /home/greg/freshly/rebuild/platforms/android/assets/www/app/app.html \
 /home/greg/freshly/rebuild/platforms/android/assets/www/app/directives \
-/home/greg/freshly/rebuild/platforms/android/assets/www/app/services/services.js \
+/home/greg/freshly/rebuild/platforms/android/assets/www/app/services/servicesMap.js \
+/home/greg/freshly/rebuild/platforms/android/assets/www/app/services/servicesCamera.js \
+/home/greg/freshly/rebuild/platforms/android/assets/www/app/services/servicesActivities.js \
 /home/greg/freshly/rebuild/platforms/android/assets/www/app/controllers_views/map \
 /home/greg/freshly/rebuild/platforms/android/assets/www/app/controllers_views/capture \
 /home/greg/freshly/rebuild/platforms/android/assets/www/app/controllers_views/activities \
@@ -61,6 +63,7 @@
 /home/greg/freshly/rebuild/platforms/android/assets/www/app/controllers_views/activities/activity.html \
 /home/greg/freshly/rebuild/platforms/android/assets/www/app/controllers_views/activities/activities.js \
 /home/greg/freshly/rebuild/platforms/android/assets/www/app/controllers_views/activities/app-activities.html \
+/home/greg/freshly/rebuild/platforms/android/assets/www/app/directives/angular-leaflet-directive.js \
 /home/greg/freshly/rebuild/platforms/android/assets/www/app/directives/directives.js \
 /home/greg/freshly/rebuild/platforms/android/assets/www/lib/ionic \
 /home/greg/freshly/rebuild/platforms/android/assets/www/lib/angular \

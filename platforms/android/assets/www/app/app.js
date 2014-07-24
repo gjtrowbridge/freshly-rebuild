@@ -10,7 +10,9 @@ angular.module('freshly', [
   'freshly.activities',
   'freshly.map',
   'freshly.capture',
-  'freshly.services',
+  'freshly.servicesActivities',
+  'freshly.servicesCamera',
+  'freshly.servicesMap',
   'freshly.directives'
 ])
 
