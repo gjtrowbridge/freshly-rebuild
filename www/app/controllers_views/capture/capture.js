@@ -119,8 +119,8 @@ angular.module('freshly.capture', [])
     Camera.renderPicture(input);
   };
 
-  /*
-  Opens camera and allows for photo to be taken and returns photo
+  
+  // Opens camera and allows for photo to be taken and returns photo
   $scope.openCamera = function () {
     Camera.getPicture().then(function(imageURI) {
       // console.log(imageURI);
@@ -134,7 +134,7 @@ angular.module('freshly.capture', [])
       saveToPhotoAlbum: false
     });
   };
-  */
+  
 
   // Send new experience to db and return to app.map state
   $scope.createPin = function () {
